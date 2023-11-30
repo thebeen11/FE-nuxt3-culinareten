@@ -11,3 +11,7 @@ h1{
 h2{
     @apply text-3xl font-bold
 }
+
+.font-outline-white{
+    -webkit-text-stroke: 1px white;
+}

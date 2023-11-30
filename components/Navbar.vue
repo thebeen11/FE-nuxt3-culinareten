@@ -1,5 +1,5 @@
 <template>
-    <div class="h-20 w-full flex justify-between items-center px-10 md:px-20 fixed top-0 z-50" :class="y<50 || `bg-white transition delay-150 duration-300 ease-in-out`">
+    <div class="h-20 w-full flex justify-between items-center px-10 md:px-20 fixed top-0 z-50" :class="y<50 || `bg-white transition duration-300 ease-in-out`">
         <div class=" text-2xl md:text-4xl font-bold text-primary">
             CULINARETEN 
         </div>
